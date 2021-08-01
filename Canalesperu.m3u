@@ -1,0 +1,134 @@
+#EXTINF:-1,Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1,Antares Televisión
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1,BeXtreme TV (Lima) (1080p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
+
+#EXTINF:-1,BHTV (720p)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1,Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1,CANAL IPE [Not 24/7]
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,Chicos IPe [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,Cultura 24 (720p)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1,El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1,Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1,France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1,Galáctica TV (Peru)
+https://envivo.galacticatv.com:3913/stream/play.m3u8
+
+#EXTINF:-1,JNE TV [Not 24/7]
+https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
+
+#EXTINF:-1,Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1,Karibeña TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
+#EXTINF:-1,Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1,Monterrico TV (1080p)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1,Monterrico TV
+https://ed1ov.live.opencaster.com/jcpstream_hd720/index.m3u8
+
+#EXTINF:-1,Monterrico TV (720p) [Not 24/7]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+
+#EXTINF:-1,Omega TV (Yurimaguas) [Not 24/7]
+https://7.innovatestream.pe:19360/omega/omega.m3u8
+
+#EXTINF:-1,Onda Digital
+http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
+
+#EXTINF:-1,Ovación TV (Lima) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1,Panamericana TV (HD) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1,Pax TV (480p)
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+
+#EXTINF:-1,Perú Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
+#EXTINF:-1,Primavera 15 Radiotelevisión (Moquegua)
+https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
+
+#EXTINF:-1,Radio San Borja TV [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1,Radio Tropical Tarapoto
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+
+#EXTINF:-1,RadioTV Oriente (Yurimaguas) [Not 24/7]
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1,RTV Total (Yurimaguas) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1,Stereo TV (Peru) [Not 24/7]
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
+
+#EXTINF:-1,Super Canal (Yurimaguas) [Not 24/7]
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+
+#EXTINF:-1,Televisión Tarapoto
+https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
+
+#EXTINF:-1,Tropical TV (Puerto Maldonado) [Not 24/7]
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
+#EXTINF:-1,TV Noticias 7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+#EXTINF:-1,TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+
+#EXTINF:-1,TV Peruanísima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1,TV Perú [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1,TV Perú Noticias [Not 24/7]
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1,TV Perú Noticias [Not 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1,UCI (1080p)
+http://170.79.102.223/UCI/index.m3u8
+
+#EXTINF:-1,Visión Noticias Perú (VNP) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1,Visión TV Musica (Peru)
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1,Vía Televisión (Tarapoto) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
